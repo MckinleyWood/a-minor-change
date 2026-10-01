@@ -1,2 +1,2 @@
 # A Minor Change
-## Music from the Hit Musical
+Music from the hit musical
